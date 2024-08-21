@@ -1,37 +1,17 @@
 ---
 layout: archive
-title: "Sitemap"
+title: "Grants"
 permalink: /sitemap/
 author_profile: true
 ---
 
-{% include base_path %}
+-	£32 million, Foreign, Commonwealth &Development Office (FCDO), African Cities Research Consortium (ACRC), (Co- Principal Investigator on behalf of UNU WIDER), 2021
+ -	£20,000, International Growth Centre (IGC), LSE/UK, Dealing with Single-Use Plastics: Examining the Economic Effect of a Ban in Ghana (Principal Investigator), 2018
+ -	£10,000, International Growth Centre (IGC), LSE/UK, The Impact of Public Investment in Graduate Training on Development Outcomes in Ghana (Principal Investigator), 2018
+ -	€40,000, DFID through Tilburg University, Innovation for productivity growth in Low-income countries (Co- Principal Investigator), 2017
+- £10,000, International Growth Centre (IGC), LSE/UK, Informality and the Tax Gap: A case of non-farm enterprise in Ghana (Principal Investigator), 2016
+ -	US$ 20,000, UNDP, Ghana, Unmasking the factors behind socio-economic inequalities in Ghana (Principal investigator), 2016
+ -	US$5,000, African Development Bank, Ghana’s long run growth: policy options for equity and sustainable growth (Principal investigator), 2018
+ -	GHC 25,000, ORID, University of Ghana, Legon, Rural Financial Intermediation and Poverty Reduction: evidence from Ghana (Co- investigator), 2017
+ -	US$8,000, ESID, University of Manchester, UK, Political settlements, the deals environment and economic growth: The case of Ghana (Co – investigator), 2016
 
-A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
-
-<h2>Pages</h2>
-{% for post in site.pages %}
-  {% include archive-single.html %}
-{% endfor %}
-
-<h2>Posts</h2>
-{% for post in site.posts %}
-  {% include archive-single.html %}
-{% endfor %}
-
-{% capture written_label %}'None'{% endcapture %}
-
-{% for collection in site.collections %}
-{% unless collection.output == false or collection.label == "posts" %}
-  {% capture label %}{{ collection.label }}{% endcapture %}
-  {% if label != written_label %}
-  <h2>{{ label }}</h2>
-  {% capture written_label %}{{ label }}{% endcapture %}
-  {% endif %}
-{% endunless %}
-{% for post in collection.docs %}
-  {% unless collection.output == false or collection.label == "posts" %}
-  {% include archive-single.html %}
-  {% endunless %}
-{% endfor %}
-{% endfor %}
