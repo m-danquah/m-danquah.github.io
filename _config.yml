@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "md.jpeg"
-  name             : "Your Sidebar Name"
+  name             : "Michael Danquah"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Development Economist"
+  location         : "Accra, Ghana"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
