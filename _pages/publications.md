@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Edited Collections (Edited Books and Journal Special issue):**
+Edited Collections (Edited Books and Journal Special issue):
 ====
 
 1.	‘African cities: Urbanization without structural transformation’ (with K. Sen and R. Gisselquist), Brookings Institution Press, USA (ongoing)
@@ -15,6 +15,7 @@ author_profile: true
 3.	‘What sustains informality?’ special issue of Journal of Development Studies 58.7 (July 2022). Guest Editor (with K. Sen and S. Schotte).
 
 Book Chapters:
+===
 4.	‘The job ladder’ (with G. Fields, T.H. Gindling, S. Sen and S. Schotte), in G. Fields et al. (eds), The Job Ladder: Transforming Informal Work and Livelihoods in Developing Countries, 2023, Oxford University Press, 2023
 
 5.	‘Informal-formal transitions in work status in sub-Saharan Africa: a comparative perspective’ (with S. Schotte, and K. Sen), in G. Fields et al (eds.), The Job Ladder: Transforming informal work and livelihoods in developing countries, 2023, Oxford University Press, 2023
@@ -28,7 +29,7 @@ Book Chapters:
 
 
 
-**Articles in peer reviewed journals (selected from 2014):**
+Articles in peer reviewed journals (selected from 2014):
 ===
 9.	‘The financial inclusion agenda: Examining the role of conventional banks in deepening access to formal credit’ (with A.M. Iddrisu), Economic Systems, 2024, 48(2):1-21
 
@@ -94,7 +95,7 @@ Book Chapters:
 39.	‘Productivity Growth, Human Capital and Distance to Frontier in Sub-Saharan Africa’ (with B. Ouattara), Journal of Economic Development, 2014, 39(4):27-48.
 
            
-**Working Papers:**
+Working Papers:
 ====
 40.	‘Urbanization, climate change, and structural transformation in Accra, Ghana’ (with B. Ouattara, W. Ohemeng and A. Barimah) WIDER Working Paper 2024/25. Helsinki: UNU-WIDER.
 
