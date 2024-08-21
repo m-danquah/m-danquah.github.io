@@ -8,17 +8,17 @@ author_profile: true
 Edited Collections (Edited Books and Journal Special issue):
 ====
 
-1.	‘African cities: Urbanization without structural transformation’ (with K. Sen and R. Gisselquist), Brookings Institution Press, USA (ongoing)
+1.	*‘African cities: Urbanization without structural transformation’* (with K. Sen and R. Gisselquist), Brookings Institution Press, USA (ongoing)
 
-2.	‘The Job Ladder: Transforming Informal Work and Livelihoods in Developing Countries’ (with G. Fields, T.H. Gindling, K. Sen and S. Schotte), Oxford: Oxford University Press, 2023
+2.	*‘[The Job Ladder: Transforming Informal Work and Livelihoods in Developing Countries](https://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780192867339.pdf)’* (with G. Fields, T.H. Gindling, K. Sen and S. Schotte), Oxford: Oxford University Press, 2023
 
-3.	‘What sustains informality?’ special issue of Journal of Development Studies 58.7 (July 2022). Guest Editor (with K. Sen and S. Schotte).
+3.	*‘[What sustains informality?](https://www.wider.unu.edu/publication/what-sustains-informality)’* special issue of Journal of Development Studies 58.7 (July 2022). Guest Editor (with K. Sen and S. Schotte).
 
 Book Chapters:
 ===
-4.	‘The job ladder’ (with G. Fields, T.H. Gindling, S. Sen and S. Schotte), in G. Fields et al. (eds), The Job Ladder: Transforming Informal Work and Livelihoods in Developing Countries, 2023, Oxford University Press, 2023
+4.	[‘The job ladder’](https://academic.oup.com/book/45886/chapter/401425211) (with G. Fields, T.H. Gindling, S. Sen and S. Schotte), in G. Fields et al. (eds), *The Job Ladder: Transforming Informal Work and Livelihoods in Developing Countries*, 2023, Oxford University Press, 2023
 
-5.	‘Informal-formal transitions in work status in sub-Saharan Africa: a comparative perspective’ (with S. Schotte, and K. Sen), in G. Fields et al (eds.), The Job Ladder: Transforming informal work and livelihoods in developing countries, 2023, Oxford University Press, 2023
+5.	[‘Informal-formal transitions in work status in sub-Saharan Africa: a comparative perspective’](https://academic.oup.com/book/45886/chapter/401426621) (with S. Schotte, and K. Sen), in G. Fields et al (eds.), *The Job Ladder: Transforming informal work and livelihoods in developing countries*, 2023, Oxford University Press, 2023
 
 
 6.	‘How to transform informal work and livelihoods?: Lessons learnt and policy options’ (with G. Fields, T.H. Gindling, S. Sen and S. Schotte), in G. Fields et al. (eds), The Job Ladder: Transforming Informal Work and Livelihoods in Developing Countries, 2023, Oxford University Press, 2023
