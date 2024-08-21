@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Illustration of Economic Development](/images/econ_dev.png){: .align-right wdith="300px"}
+![Illustration of Economic Development](/images/econ_dev.png){: .align-right wdith="200px"}
 I am a [development economist](https://www.wider.unu.edu/expert/michael-danquah?page=1) with more than twelve years of experience in research and teaching in economic development and policy issues in sub-Saharan Africa. I am a co-chair of the International Union for the Scientific Study of Population (IUSSP) Scientific Panel on Population, Inequality and Climate Change. Previously, I worked as a [Research fellow at UNU WIDER](https://www.wider.unu.edu/expert/michael-danquah?page=1). I was the lead for three of the institute’s flagship work programmes, as well as the country programme in Myanmar. 
 
 My extensive research work has focused largely on issues related to inclusive green growth, informality and labour market in African countries, structural transformation in African cities, productivity growth among others. I am also interested in applying probabilistic machine learning methods to study development economic issues.
