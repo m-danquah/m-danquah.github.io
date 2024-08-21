@@ -1,39 +1,19 @@
 ---
 permalink: /terms/
-title: "Terms and Privacy Policy"
-modified: 2016-06-06
+title: ""
+modified: 
 ---
+1.	[Local governance in Ghana is more complicated than central versus regional](https://www.wider.unu.edu/publication/local-governance-ghana-more-complicated-central-versus-regional). UNUWIDER/LSE Blogs, November 2023
+2.	[Climbing the job ladder: A clearer picture of informal work](https://www.wider.unu.edu/publication/climbing-job-ladder). UNU WIDER Policy brief, April 2023.
+3.	[Stuck at the bottom of the job ladder in Africa: the stumbling block to resilient growth and prosperity](https://www.wider.unu.edu/publication/stuck-bottom-job-ladder-africa), UNU WIDER Blog, 2023 
 
-{% include base_path %}
-{% include toc %}
+4.	[Rethinking African debt and exploitation of natural resources](https://african.business/2023/03/resources/africas-debt-burden-contributes-to-overexploitation-of-natural-resources). African Business Magazine, March 2023.
+5.	[How can cities create better jobs in sub–Saharan Africa?](https://www.brookings.edu/articles/how-can-cities-create-better-jobs-in-sub-saharan-africa/) Foresight Africa 2023, Brookings Institution, February 2023
 
-## Privacy Policy
+6.	[What does ‘promoting sustained, inclusive and sustainable economic growth’ mean for everyday life?](https://www.wider.unu.edu/publication/what-does-‘promoting-sustained-inclusive-and-sustainable-economic-growth’-mean-everyda-0) WIDERAngle, March 2022.
 
-The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+7.	[‘Creating sustainable growth and reducing poverty through structural transformation’](https://www.african-cities.org/creating-sustainable-growth-and-reducing-poverty-through-structural-transformation/) (with K. Sen, R. Gisselquist and Matthew Sharp), African Cities Research Consortium (ACRC) blog, 6 June 2022.
 
-First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
+8.	[‘COVID-19 and employment: Insights from the sub-Saharan African experience’](https://www.wider.unu.edu/publication/covid-19-and-employment) (with S. Schotte and K. Sen). WIDER Background Note 2020/7. Helsinki: UNU-WIDER.
 
-### Log Files
-
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
-
-* Internet Protocol addresses (IP)
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of clicks
-
-All of this information is not linked to anything that is personally identifiable.
-
-### Cookies and Web Beacons
-
-When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](http://disqus.com) the next time you leave a comment.
-
-Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
-
-If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
-
-#### Google Analytics
-
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
+9.	[‘COVID-19 and the socioeconomic impact in Africa: The case of Ghana’](https://www.wider.unu.edu/publication/covid-19-and-socioeconomic-impact-africa-1) (with S. Schotte). WIDER Background Note 2020/5. Helsinki: UNU-WIDER.
