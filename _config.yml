@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Danquah's Homepage"
 title_separator          : "-"
 name                     : &name "Michael Danquah"
 description              : &description "personal description"
