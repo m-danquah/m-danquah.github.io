@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Grants"
+title: "Research Grants and Projects (Selected)"
 permalink: /sitemap/
 author_profile: true
 ---
