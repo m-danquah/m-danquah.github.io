@@ -23,8 +23,9 @@ author:
   # Biographic information
   avatar           : "profile3.png"
   name             : "Michael Danquah"
-  pronouns         : +358 41 7239164  
+  pronouns         : #+358 41 7239164  
   bio              : "Development Economist"
+  pronouns         : +358 41 7239164 
   location         : "Accra, Ghana"
   employer         : "UNU WIDER"
   uri              : # URL
