@@ -25,9 +25,10 @@ author:
   name             : "Michael Danquah"
   pronouns         : #"Tel: +358 41 7239164"  
   bio              : "Development Economist"
+  mobile           : "Tel: +358 41 7239164" 
   location         : "Accra, Ghana"
   employer         : "UNU WIDER"
-  uri              : "Tel: +358 41 7239164" 
+  uri              : #URL 
   email            : "mldanqua@gmail.com" 
 
   # Academic websites
