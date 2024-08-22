@@ -17,7 +17,7 @@ I have been awarded the Most Promising Young Scholar and Best Researcher in the 
 
 I have also been interviewed by the BBC World Service on issues related to poverty reduction as well as the pandemic effects of COVID-19 in sub-Saharan Africa.
 
-Please see my CV [here](/files/CV_M_Danquah_1.pdf)
+Please see my CV [here](files/CV_M_Danquah_1.pdf)
 
 
 
